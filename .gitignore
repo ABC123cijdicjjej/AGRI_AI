@@ -1,0 +1,8 @@
+dataset/
+testing_data/
+thumbnail13.png
+__pycache__/
+*.py[cod]
+.venv/
+.streamlit/secrets.toml
+.pytest_cache/

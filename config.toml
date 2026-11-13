@@ -1,0 +1,29 @@
+[theme]
+base = "light"
+primaryColor = "#245B40"
+backgroundColor = "#F5F6F0"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A2A21"
+borderColor = "#DEE6DC"
+linkColor = "#245B40"
+font = "sans serif"
+headingFont = "serif"
+baseRadius = "0.75rem"
+buttonRadius = "0.6rem"
+showWidgetBorder = true
+paddingTop = "1.5rem"
+paddingBottom = "2rem"
+headingFontSizes = ["32px", "24px", "20px", "16px", "14px", "12px"]
+headingFontWeights = [600, 600, 600, 550, 500, 500]
+metricValueFontSize = "2rem"
+metricValueFontWeight = 650
+
+greenColor = "#245B40"
+greenBackgroundColor = "#E8F0E7"
+greenTextColor = "#17442F"
+orangeColor = "#A45B2C"
+orangeBackgroundColor = "#F8EEE5"
+orangeTextColor = "#75421F"
+
+[server]
+maxUploadSize = 10
